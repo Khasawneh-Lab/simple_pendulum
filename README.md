@@ -10,7 +10,7 @@ The CAD will soon be available through GrabCad.
 
 ## Usage and Documentation
 
-Full documentationof the pendulum is provided [here](https://github.com/Khasawneh-Lab/double_pendulum/blob/master/DP_Experiment_MFG_and_Params.pdf).
+Full documentationof the pendulum is provided [here](https://github.com/Khasawneh-Lab/simple_pendulum/blob/master/simple_pendulum_documentation.pdf).
 
 ## Contributing
 
