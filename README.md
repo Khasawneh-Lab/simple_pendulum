@@ -2,7 +2,10 @@
 
 This repo contains (or links to) the CAD, model, BOM, mechanical drawings, equations, and parameters for a manufactured single pendulum. A CAD rendering of the model is provided below.
 
-![Single Pendulum CAD Rendering](https://github.com/Khasawneh-Lab/simple_pendulum/blob/master/figures/single_pendulum_fig.png)
+<p align="center">
+  <img src="https://github.com/Khasawneh-Lab/simple_pendulum/blob/master/figures/single_pendulum_fig.png">
+</p>
+
 
 ## Download
 
