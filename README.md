@@ -18,6 +18,11 @@ This material is based upon work supported by the National Science Foundation un
 
 Disclaimer: Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
+## Simulation Documentation
+<p align="center">
+  <img src="https://github.com/Khasawneh-Lab/simple_pendulum/blob/master/figures/simulation_fig.png">
+</p>
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
