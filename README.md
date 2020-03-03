@@ -19,7 +19,7 @@ This material is based upon work supported by the National Science Foundation un
 Disclaimer: Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
 ## Simulation Documentation
-For simulating the single pendulum, we developed a Python function that will include an optional magnetic repsulive force (see documentation) and base excitation. If the appropriate parameters are set to zero, then the simulation will be that of a free simple pendulum. The Python code implementing the example output shown below if available [here](https://github.com/Khasawneh-Lab/simple_pendulum/blob/master/simple_pendulum_documentation.pdf).
+For simulating the single pendulum, we developed a Python function that will include an optional magnetic repsulive force (see documentation) and base excitation. If the appropriate parameters are set to zero, then the simulation will be that of a free simple pendulum. The Python code implementing the example output shown below if available [here](https://github.com/Khasawneh-Lab/simple_pendulum/blob/master/simulation/single_pendulum_simulation.py).
 
 <p align="center">
   <img src="https://github.com/Khasawneh-Lab/simple_pendulum/blob/master/figures/simulation_fig.png">
