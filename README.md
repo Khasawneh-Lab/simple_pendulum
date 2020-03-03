@@ -19,7 +19,7 @@ This material is based upon work supported by the National Science Foundation un
 Disclaimer: Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
 ## Simulation Documentation
-'''
+
     #import packages
     import numpy as np
     
@@ -59,7 +59,7 @@ Disclaimer: Any opinions, findings, and conclusions or recommendations expressed
     
     #run simulation functions to get time array, angle (th), and angular veloctiy (om)
     t, th, om = pendulum_simulation(t, IC, params, plotting = True)
-'''
+
 
 <p align="center">
   <img src="https://github.com/Khasawneh-Lab/simple_pendulum/blob/master/figures/simulation_fig.png">
