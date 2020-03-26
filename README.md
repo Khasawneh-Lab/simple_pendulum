@@ -1,6 +1,6 @@
 # simple_pendulum
 
-This repo contains (or links to) the simulation Python code, CAD, model, BOM, mechanical drawings, equations, and parameters for a manufactured single pendulum. Please cite this page through our published works "[Uncertainty Propagation of System Parameters to the Dynamic Response: An Application to a Benchtop Pendulum](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2017/58387/V04BT05A052/288563)" or (soon to be published in ASME) "Dynamic State Analysis of a Driven Pendulum using Complex Networks." A CAD rendering of the model is shown below.
+This repo contains (or links to) the simulation Python code, CAD, model, BOM, mechanical drawings, equations, and parameters for a manufactured single pendulum. Please cite this page through our published works "[Uncertainty Propagation of System Parameters to the Dynamic Response: An Application to a Benchtop Pendulum](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2017/58387/V04BT05A052/288563)" or (soon to be published in ASME) "Dynamic State Analysis of a Driven Pendulum using Complex Networks." A CAD rendering of the model is shown below. Additionally, you can cite the code used here through our [zenodo account](https://zenodo.org/record/3727800#.XnzQxzFKiUk).
 
 <p align="center">
   <img src="https://github.com/Khasawneh-Lab/simple_pendulum/blob/master/figures/single_pendulum_fig.png">
