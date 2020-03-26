@@ -8,7 +8,7 @@ This repo contains (or links to) the simulation Python code, CAD, model, BOM, me
 
 ## Download
 
-The CAD is available through GrabCad [here](https://grabcad.com/library/simple-pendulum-research-or-educational-purposes-1).
+The CAD is available through GrabCad [here](https://grabcad.com/library/simple-pendulum-research-educational-purposes-1).
 
 ## Usage and Documentation
 
